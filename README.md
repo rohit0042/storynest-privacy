@@ -1,2 +1,0 @@
-# storynest-privacy
-storynest-privacy
